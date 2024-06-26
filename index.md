@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Bienvenide
+# Welcome
 
-Hoola carepalo
+
