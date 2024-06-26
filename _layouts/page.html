@@ -1,14 +1,9 @@
 ---
-layout: default
+layout: base
 ---
 
-<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
-	<div class="inner-hero text-container">
-		<div class="hero-text-container">
-			<h1>{{ page.title }}</h1>
-			<p class="subtext">{{ page.description }}</p>
-		</div>
-	</div>
-</section>
-
-{{ content }}
+<div class="flex justify-center py-4 md:py-8">
+  <article class="text-center prose md:prose-lg prose-p:font-extralight prose-headings:font-light prose-slate dark:prose-invert">
+  {{ content }}
+  </article>
+</div>
