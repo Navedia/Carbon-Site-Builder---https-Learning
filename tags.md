@@ -1,5 +1,5 @@
 ---
-title: etiquetas
+title: contact
 layout: tags
 permalink: /tags/
 ---
