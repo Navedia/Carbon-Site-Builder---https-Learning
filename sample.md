@@ -12,9 +12,9 @@ layout: page
 
 "I want to support my children, I haven't got the time to drop them off at separate revision classes."
  
-##**ACT Now **
+## ACT Now 
 
-We're here to provide valuable assistance through our **Advice**, **Coaching**, and **Tutoring **services. Let us guide you to make informed decisions. 
+We're here to provide valuable assistance through our **Advice**,**Coaching**and **Tutoring **services. Let us guide you to make informed decisions. 
 
 ## Advice
 
