@@ -1,5 +1,5 @@
 ---
-title: Services
+title: services
 layout: page
 ---
 
