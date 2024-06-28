@@ -25,9 +25,6 @@ The **Tutoring Service**  ingrains cutting-edge creative and game-based methods 
 
 
 
-![image](https://NavWeb.b-cdn.net/abstract%20terracotta%20logo%20design.jpg)
-
-
 
 
 
