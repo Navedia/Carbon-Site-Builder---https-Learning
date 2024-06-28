@@ -12,23 +12,22 @@ layout: page
 
 "I want to support my children, I haven't got the time to drop them off at separate revision classes."
  
-** ACT  Now**
+**ACT Now **
 
 We're here to provide valuable assistance through our **Advice**, **Coaching**, and **Tutoring **services. Let us guide you to make informed decisions. 
 
-## Some great heading (h2)
+## Advice (h2)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+Our  Advice service offers a personalised consultation with both the parent/guardian and child. From this consultation, a tailored report is generated that includes techniques, strategies, and next steps for the child's learning.
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+## coach (h2)
 
-## Another great heading (h2)
+Our Coach services are designed to enhance your child's emotional regulation and learning while strengthening overall family well-being. We provide valuable strategies that focus on family dynamics and help children learn and grow.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+### Tutor (h3)
 
-### Some great subheading (h3)
+Our Tutor service ingrains cutting-edge creative and game-based methods to strengthen learning and resilience in our learners.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
 
