@@ -17,15 +17,15 @@ layout: page
 We're here to help through our **Advice**,**Coaching** and **Tutoring** services. 
 
 ## Advice
-
+![image](https://NavWeb.b-cdn.net/1771.jpg)
 Our  Advice service offers a personalised consultation with both the parent/guardian and child. From this consultation, a tailored report is generated that includes techniques, strategies, and next steps for the child's learning.
 
 ## Coach 
-
+![image](https://NavWeb.b-cdn.net/1728.jpg)
 Our Coach service are designed to enhance your child's emotional regulation and learning while strengthening overall family well-being. We provide valuable strategies that focus on family dynamics and help children learn and grow.
 
 ## Tutor 
-
+![image](https://NavWeb.b-cdn.net/1757.jpg)
 Our Tutor service ingrains cutting-edge creative and game-based methods to strengthen learning and resilience in our learners.
 
 
