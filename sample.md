@@ -17,7 +17,7 @@ layout: page
 We're here to provide valuable assistance through our **Advice**,**Coaching**and **Tutoring **services. Let us guide you to make informed decisions. 
 
 ## Advice
-https://NavWeb.b-cdn.net/1771.jpg
+image: https://NavWeb.b-cdn.net/9634CF2E-0402-4EBB-84AC-82CC351CF9A7.jpg
 
 Our  Advice service offers a personalised consultation with both the parent/guardian and child. From this consultation, a tailored report is generated that includes techniques, strategies, and next steps for the child's learning.
 
