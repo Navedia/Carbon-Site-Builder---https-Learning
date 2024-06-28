@@ -3,14 +3,14 @@ title: services
 layout: page
 ---
 
-#  **Does This Sound Familiar? **
+#  ******Does This Sound Familiar? ******
 
 
-"My son is struggling in school?"
+"My son is struggling to focus and is failing in school?"
 
-"My daughter is becoming withdrawn and anxious." 
+"My daughter is  withdrawn and anxious she isn't revising." 
 
-"My youngest does not want to go to school."
+"I want to support my children, I havent got the time to drop them off at separate revision classed."
  
  ACT  Now
 
