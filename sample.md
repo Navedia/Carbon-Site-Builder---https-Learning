@@ -21,4 +21,4 @@ The **Coaching Service** are designed to enhance your child's emotional regulati
 ## Tutoring 
 
 The **Tutoring Service**  ingrains cutting-edge creative and game-based methods to strengthen learning and resilience.
-![image](https://NavWeb.b-cdn.net/1728.jpg)
+![image](https://NavWeb.b-cdn.net/Copy%20of%20Simple%20Flowchart%20Infographic%20Graph-3.jpg)
