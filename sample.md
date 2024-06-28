@@ -3,7 +3,7 @@ title: Services
 layout: page
 ---
 
-#  Does This Sound Familiar?
+## Does This Sound Familiar?
 
 
 "My son is failing in school?"
@@ -14,7 +14,7 @@ layout: page
  
 ## ACT Now 
 
-We're here to provide valuable assistance through our **Advice**,**Coaching**and **Tutoring **services. Let us guide you to make informed decisions. 
+We're here to help through our **Advice**,**Coaching** and **Tutoring** services. 
 
 ## Advice
 
