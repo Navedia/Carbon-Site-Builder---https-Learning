@@ -11,7 +11,6 @@ layout: page
 "My daughter is withdrawn and anxious she isn't revising!" 
 
 "I want to support my children, I haven't got the time to drop them off at separate revision classes."
-![image](https://NavWeb.b-cdn.net/1804.jpg)
 
 **We help through our Advising, Coaching and Tutoring Services.**
 # Advising
@@ -22,4 +21,4 @@ The **Coaching Service** are designed to enhance your child's emotional regulati
 # Tutoring 
 
 The **Tutoring Service**  ingrains cutting-edge creative and game-based methods to strengthen learning and resilience.
-![image](https://NavWeb.b-cdn.net/hand-02.jpg)
+![image](https://NavWeb.b-cdn.net/1728.jpg)
