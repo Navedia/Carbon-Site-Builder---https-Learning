@@ -3,7 +3,7 @@ title: Services
 layout: page
 ---
 
-###  **Does This Sound Familiar?**
+## Does This Sound Familiar?**
 
 
 "My son is failing in school?"
@@ -24,6 +24,8 @@ The **Tutoring Service**  ingrains cutting-edge creative and game-based methods 
 ![image](https://NavWeb.b-cdn.net/Copy%20of%20Simple%20Flowchart%20Infographic%20Graph-3.jpg)
 
 
+
+https://NavWeb.b-cdn.net/abstract%20terracotta%20logo%20design.jpg
 
 
 
