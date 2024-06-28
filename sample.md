@@ -25,7 +25,6 @@ The **Tutoring Service**  ingrains cutting-edge creative and game-based methods 
 
 
 
-![image](https://NavWeb.b-cdn.net/Copy%20of%20Simple%20Flowchart%20Infographic%20Graph.jpg)
 
 
 
