@@ -5,7 +5,7 @@ layout: page
 **Advisor,** **Coach** and **Teacher**,for 
 individuals  aged from 8 to 80.
 
-*#### "Supporting growth through personalised learning."* 
+*Supporting growth through personalised learning."* 
 
 Navedia Young has expertise in additional needs through her experience in education as a head of year, head of subject, special educational needs, and cognition and learning advisory teacher. She has also delivered presentations and workshops to raise awareness of neurodiversity and was awarded funding to develop dyslexia packs, which were distributed to four London-based boroughs. 
 
