@@ -3,7 +3,7 @@ title: services
 layout: page
 ---
 
-#  ******Does This Sound Familiar? ******
+#  Does This Sound Familiar?
 
 
 "My son is struggling to focus and is failing in school?"
