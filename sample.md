@@ -20,11 +20,11 @@ We're here to provide valuable assistance through our **Advice**, **Coaching**, 
 
 Our  Advice service offers a personalised consultation with both the parent/guardian and child. From this consultation, a tailored report is generated that includes techniques, strategies, and next steps for the child's learning.
 
-## coach (h2)
+## Coach (h2)
 
 Our Coach services are designed to enhance your child's emotional regulation and learning while strengthening overall family well-being. We provide valuable strategies that focus on family dynamics and help children learn and grow.
 
-### Tutor (h3)
+### Tutor (h2)
 
 Our Tutor service ingrains cutting-edge creative and game-based methods to strengthen learning and resilience in our learners.
 
