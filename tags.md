@@ -5,6 +5,6 @@ title: Contact
 
 
 
-To get in touch with me please email **hellovedaguidance(at)outlook(dot)com**
+To get in touch with me please email **hellovedaguidance@outlook.com**
 
 ![image](https://NavWeb.b-cdn.net/Copy%20of%20Simple%20Flowchart%20Infographic%20Graph-4.jpg)
