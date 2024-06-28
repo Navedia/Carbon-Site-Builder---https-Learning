@@ -7,5 +7,6 @@ Navedia Young has expertise in additional needs through her experience in educat
 
 Navedia Young was an assistant researcher on a project focused on identifying challenges and benefits of accessing technology in emergency situations for the neurodiverse community. Navedia has delivered coaching within the community and is highly recommended. Her Social Enterprise business was named social enterprise of the month in 2022, and in 2023 she won the LEAP community award for supporting parents to engage with their children through sensory stories and sensory creativity.
 
+![image](https://NavWeb.b-cdn.net/Copy%20of%20Simple%20Flowchart%20Infographic%20Graph-3%20copy.jpg)
 
 [jekyll-organization]: https://github.com/jekyll
