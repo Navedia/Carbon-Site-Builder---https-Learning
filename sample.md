@@ -3,7 +3,7 @@ title: Services
 layout: page
 ---
 
-## Does This Sound Familiar?
+# Does This Sound Familiar?
 
 
 "My son is failing in school?"
@@ -14,26 +14,17 @@ layout: page
  
 **We help through our Advising, Coaching and Tutoring Services.**
 
-## Advice
+# Advice
 ![image](https://NavWeb.b-cdn.net/1771.jpg)
 The **Advising Service** offers a personalised consultation with both the parent/guardian and child. From this consultation, a tailored report is generated that includes techniques, strategies, and next steps for the child's learning.
 
-### Coach 
+# Coach 
 ![image](https://NavWeb.b-cdn.net/1728.jpg)
 The **Coaching Service** are designed to enhance your child's emotional regulation and learning while strengthening overall family well-being. We provide valuable strategies that focus on family dynamics and help children learn and grow.
 
-## Tutor 
+# Tutor 
 ![image](https://NavWeb.b-cdn.net/1757.jpg)
 The** Tutoring Service** ingrains cutting-edge creative and game-based methods to strengthen learning and resilience in our learners.
 
  
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
 
