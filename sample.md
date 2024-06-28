@@ -12,19 +12,19 @@ layout: page
 
 "I want to support my children, I haven't got the time to drop them off at separate revision classes."
  
-**ACT Now **
+##**ACT Now **
 
 We're here to provide valuable assistance through our **Advice**, **Coaching**, and **Tutoring **services. Let us guide you to make informed decisions. 
 
-## Advice (h2)
+## Advice
 
 Our  Advice service offers a personalised consultation with both the parent/guardian and child. From this consultation, a tailored report is generated that includes techniques, strategies, and next steps for the child's learning.
 
-## Coach (h2)
+## Coach 
 
 Our Coach services are designed to enhance your child's emotional regulation and learning while strengthening overall family well-being. We provide valuable strategies that focus on family dynamics and help children learn and grow.
 
-### Tutor (h2)
+## Tutor 
 
 Our Tutor service ingrains cutting-edge creative and game-based methods to strengthen learning and resilience in our learners.
 
