@@ -1,0 +1,14 @@
+<!DocTYPE HTML>
+<html lang="{{ page.lang | default: site.lang |
+default: "en"}}">
+{%-incude head.html -%}
+
+<body class="container mx-auto px-4 md:px-
+16 tracking-wide bg-slate-50 dark:bg-slate-800
+dark:text-white">
+{% include navbar.html %}
+
+<div>
+{{content}}
+</div>
+
