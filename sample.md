@@ -28,6 +28,8 @@ Our Coach service are designed to enhance your child's emotional regulation and 
 ![image](https://NavWeb.b-cdn.net/1757.jpg)
 Our Tutor service ingrains cutting-edge creative and game-based methods to strengthen learning and resilience in our learners.
 
+ #Summary
+![image](https://NavWeb.b-cdn.net/Copy%20of%20Simple%20Flowchart%20Infographic%20Graph.jpg)
 
 ### Tables
 
