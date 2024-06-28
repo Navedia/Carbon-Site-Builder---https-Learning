@@ -8,7 +8,7 @@ layout: page
 
 "My son is failing in school?"
 
-"I feel anxious about returning to education.I don't thnk I remember how to study!" 
+"I feel anxious about returning to education. I don't think I remember how to study!" 
 
 "I want to support my children, I haven't got the time to drop them off at separate revision classes."
 
