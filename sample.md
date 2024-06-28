@@ -3,9 +3,18 @@ title: services
 layout: page
 ---
 
-# Lorem ipsum dolor 
+#  **Does This Sound Familiar? **
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+
+"My son is struggling in school?"
+
+"My daughter is becoming withdrawn and anxious." 
+
+"My youngest does not want to go to school."
+ 
+ ACT  Now
+
+We're here to provide valuable assistance through our **Advice**, **Coaching**, and **Tutoring **services. Let us guide you to make informed decisions. 
 
 ## Some great heading (h2)
 
