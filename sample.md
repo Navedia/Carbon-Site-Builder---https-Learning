@@ -6,13 +6,13 @@ layout: page
 #  Does This Sound Familiar?
 
 
-"My son is struggling to focus and is failing in school?"
+"My son is failing in school?"
 
-"My daughter is  withdrawn and anxious she isn't revising." 
+"My daughter is withdrawn and anxious she isn't revising!" 
 
-"I want to support my children, I havent got the time to drop them off at separate revision classed."
+"I want to support my children, I haven't got the time to drop them off at separate revision classes."
  
- ACT  Now
+** ACT  Now**
 
 We're here to provide valuable assistance through our **Advice**, **Coaching**, and **Tutoring **services. Let us guide you to make informed decisions. 
 
